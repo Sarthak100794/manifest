@@ -1,0 +1,7 @@
+service:
+ type: NodePort
+ externalPort: 80
+ internalPort: 80
+ name: test
+
+
